@@ -1,0 +1,17 @@
+future: true
+permalink: /:title/
+url: http://obrcnh.github.io
+name: obrcnh
+author: obrcnh
+qq: 1173995314
+email: 1173995314@qq.com
+
+duoshuo: obrcnh
+beian: 
+cnzz: 
+weibo: 
+github: obrcnh
+about: "这里是 obrcnh 的个人博客，创建于 2018 年。"
+
+safe: true
+paginate: 20
