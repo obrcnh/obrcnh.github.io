@@ -17,15 +17,15 @@ tags: 博客
 > 在这门课的学习过程中，我学到的最重要的一点是团队合作的能力。在团队中，我负责前端的开发，因此在开发过程中，要不断地与产品、设计和后端沟通，确保需求能够及时准确地完成。同时，在开发时，不能只考虑前端怎么容易实现界面，必须要考虑到后端接口的测试，在这一点上，我承认自己做得不够好，希望自己以后能够在这方面做得更好。
 
 ## PSP 2.1 统计表
-![Alt text](./PSP2.1.png)
+![Alt text](https://github.com/obrcnh/obrcnh.github.io/raw/master/_imgs/PSP2.1.png)
 
 ## 个人分支的 GIT 统计报告
-![Alt text](./1.png)
-![Alt text](./2.png)
-![Alt text](./3.png)
-![Alt text](./4.png)
-![Alt text](./5.png)
-![Alt text](./6.png)
+![Alt text](https://github.com/obrcnh/obrcnh.github.io/raw/master/_imgs/1.png)
+![Alt text](https://github.com/obrcnh/obrcnh.github.io/raw/master/_imgs/2.png)
+![Alt text](https://github.com/obrcnh/obrcnh.github.io/raw/master/_imgs/3.png)
+![Alt text](https://github.com/obrcnh/obrcnh.github.io/raw/master/_imgs/4.png)
+![Alt text](https://github.com/obrcnh/obrcnh.github.io/raw/master/_imgs/5.png)
+![Alt text](https://github.com/obrcnh/obrcnh.github.io/raw/master/_imgs/6.png)
 
 ## 自认为最得意/或有价值/或有苦劳的工作清单，含简短说明
 > 1.负责了大多数界面的设计开发实现
